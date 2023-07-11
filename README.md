@@ -1,5 +1,5 @@
 # Arrays_Using_Java
-All possible combinations of array's
+All possible combinations of 1D array's
 
         1. print maximum element in an array
         2. Sum of two arrays
